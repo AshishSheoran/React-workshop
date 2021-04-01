@@ -8,4 +8,3 @@ In the project directory, you can run:
 
 ### `npm start`
 
-/Users/ashu/Desktop/SeasonDisplay.webp
