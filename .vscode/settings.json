@@ -1,3 +1,23 @@
 {
-    "git.ignoreLimitWarning": true
+  "git.ignoreLimitWarning": true,
+  "editor.fontSize": 14,
+  "window.zoomLevel": 0,
+  "git.enableSmartCommit": true,
+  "extensions.ignoreRecommendations": true,
+  "explorer.confirmDelete": false,
+  "prettier.arrowParens": "always",
+  "editor.formatOnPaste": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "prettier.singleQuote": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.jsxSingleQuote": true,
+  "editor.formatOnSave": true
 }
