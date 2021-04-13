@@ -6,8 +6,6 @@ import Translate from './components/Translate';
 import Route from './components/Route';
 import Header from './components/Header';
 
-// Hello
-
 const items = [
 	{
 		title: 'What is React?',
